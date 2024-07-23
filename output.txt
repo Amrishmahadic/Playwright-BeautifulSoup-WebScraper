@@ -1,0 +1,520 @@
+City: Phoenix
+Address: ('2425 East Camelback Road, Suite 530', 'Phoenix, AZ  85016')
+Contact: 602-224-4900
+
+City: Scottsdale
+Address: ('14648 North Scottsdale Road, Suite 175', 'Scottsdale, AZ  85254')
+Contact: 480-624-2300
+
+City: Sun City
+Address: ('16155 North 83rd Avenue, Suite 205', 'Peoria, AZ 85382')
+Contact: 480-374-6000
+
+City: Grass Valley
+Address: ('360 Sierra College Drive, Suite 200', 'Grass Valley, CA  95945')
+Contact: 530-271-3000
+
+City: Mill Valley
+Address: ('2 Belvedere Place, Suite 330', 'Mill Valley, CA  94941')
+Contact: 415-627-3200
+
+City: Roseville
+Address: ('1400 Rocky Ridge Dr, Suite 250', 'Roseville, CA  95661')
+Contact: 916-783-6500
+
+City: Sacramento
+Address: ('300 University Avenue, Suite 200', 'Sacramento, CA 95825')
+Contact: 916-563-2000
+
+City: Boulder
+Address: ('One Boulder Plaza, 1301 Canyon Boulevard, Suite 220', 'Boulder, CO  80302')
+Contact: 303-413-3800
+
+City: Denver
+Address: ('210 University Boulevard, Suite 800', 'Denver, CO 80206')
+Contact: 303-270-6300
+
+City: Durango
+Address: ('1099 Main Avenue, Suite 203', 'Durango, CO 81301')
+Contact: 970-263-1166
+
+City: Grand Junction
+Address: ('200 Grand Avenue, Suite 300', 'Grand Junction, CO  81501')
+Contact: 970-263-1188
+
+City: Merritt Island
+Address: ('150 North Sykes Creek Parkway, Suite 100', 'Merritt Island, FL 32953')
+Contact: 321-453-2680
+
+City: Naples
+Address: ('5811 Pelican Bay Boulevard, Suite 102', 'Naples, FL  34108')
+Contact: 239-566-2300
+
+City: Sarasota
+Address: ('One Sarasota Tower, Two North Tamiami Trail - Suite 1200', 'Sarasota, FL 34236')
+Contact: 941-366-6603
+
+City: Stuart
+Address: ('819 SW Federal Highway, Suite 102', 'Stuart, FL  34994')
+Contact: 772-463-3030
+
+City: Tampa
+Address: ('201 North Franklin Street, Suite 3000', 'Tampa, FL  33602')
+Contact: 813-221-3030
+
+City: West Palm Beach
+Address: ('777 South Flager Drive, Suite 1401', 'West Palm Beach, FL')
+Contact: 561-650-5700
+
+City: Winter Park
+Address: ('300 Garfield Ave, Suite 100', 'Winter Park, FL 32789')
+Contact: 407-644-7140
+
+City: Atlanta
+Address: ('555 North Point Center East, Suite 500', 'Alpharetta, GA 30022')
+Contact: 678-762-3000
+
+City: Chicago
+Address: ('227 W Monroe St, Suite 2300,', 'Chicago, IL  60606')
+Contact: 312-332-5600
+
+City: Elgin
+Address: ('2205 Point Boulevard, Suite 150', 'Elgin, IL 60123')
+Contact: 847-551-8151
+
+City: Oakbrook
+Address: ('2 Mid America Plaza, Suite 904', 'Oakbrook Terrace, IL  60181')
+Contact: 630-368-3340
+
+City: Peoria
+Address: ('110 SW Jefferson Avenue, Suite 600', 'Peoria, IL  61602')
+Contact: 309-676-4160
+
+City: Rockford
+Address: ('2601 Reid Farm Road, Suite A', 'Rockford, IL  61114')
+Contact: 815-636-5200
+
+City: Shiloh
+Address: ('1911 Frank Scott Parkway East', 'Shiloh, IL 62226')
+Contact: 618-206-2277
+
+City: Winnetka
+Address: ('495 Chestnut Street', 'Winnetka, IL 60093')
+Contact: 847-501-2000
+
+City: Bloomington
+Address: ('202 South College Avenue', 'Bloomington, IN  47404')
+Contact: 812-332-6333
+
+City: Columbus
+Address: ('380 Plaza Drive, Suite D', 'Columbus, IN 47201')
+Contact: 812-372-7892
+
+City: Evansville
+Address: ('110 Main Street', 'Evansville, IN 47708')
+Contact: 812-426-1481
+
+City: Mishawaka
+Address: ('4220 Edison Lakes Parkway, Suite 100', 'Mishawaka, IN 46545')
+Contact: 574-247-6830
+
+City: Indianapolis
+Address: ('8801 River Crossing Boulevard, Suite 120', 'Indianapolis, IN 46240')
+Contact: 317-582-2200
+
+City: Indianapolis
+Address: ('10 West Market Street, Market Tower Suite 2450', 'Indianapolis, IN  46204')
+Contact: 317-464-8400
+
+City: Jasper
+Address: ('690 W. Second Street, Suite B', 'Jasper, IN 47546')
+Contact: 812-482-7276
+
+City: Madison
+Address: ('220 Clifty Drive, Suite N', 'Madison, IN 47250')
+Contact: 812-273-1854
+
+City: Martinsville
+Address: ('50 N Main St., Martinsville', 'IN 46151')
+Contact: 765-349-0247
+
+City: Princeton
+Address: ('707 Vail Street', 'Princeton, IN  47670')
+Contact: 812-385-3323
+
+City: Cedar Rapids
+Address: ('200 5th Avenue SE, Suite 102', 'Cedar Rapids, IA 52401')
+Contact: 319-365-3397
+
+City: Quad Cities
+Address: ('3626 Bridge Avenue', 'Davenport, IA  52807')
+Contact: 563-386-4600
+
+City: Sioux City
+Address: ('302 Jones Street, Suite 210', 'Sioux City, IA  51101')
+Contact: 712-234-4000
+
+City: West Des Moines
+Address: ('4500 Westown Parkway, Regency West 5, Suite 201', 'West Des Moines, IA 50266')
+Contact: 515-327-0024
+
+City: Wichita
+Address: ('8535 E. 21st Street North, Suite 125', 'Wichita, KS 67206')
+Contact: 316-609-5200
+
+City: Ashland
+Address: ('1000 Ashland Drive, Suite 305', 'Ashland, KY  41101')
+Contact: 606-324-6133
+
+City: Bowling Green
+Address: ('360 East 8th Avenue Suite 211', 'Bowling Green, KY 42101')
+Contact: 270-781-1691
+
+City: Danville
+Address: ('328 West Main Street', 'Danville, KY  40422')
+Contact: 859-236-3636
+
+City: Fort Wright
+Address: ('909 Wrights Summit Parkway, Suite 300', 'Fort Wright, KY  41011')
+Contact: 859-815-6800
+
+City: Glasgow
+Address: ('102 East Wayne Street', 'Glasgow, KY  42141')
+Contact: 270-651-2663
+
+City: Henderson
+Address: ('231 Second Street', 'Henderson, KY  42420')
+Contact: 270-826-3102
+
+City: Hopkinsville
+Address: ('1003 Virginia Street', 'Hopkinsville, KY  42240')
+Contact: 270-886-0267
+
+City: Louisville
+Address: ('4803 Olympia Park Plaza, Suite 4000', 'Louisville, KY 40241')
+Contact: 502-426-0790
+
+City: Louisville
+Address: ('4803 Olympia Park Plaza, Suite 4000', 'Louisville, KY 40241')
+Contact: 502-426-0790
+
+City: Madisonville
+Address: ('233 East Center Street', 'Madisonville, KY 42431')
+Contact: 270-821-7990
+
+City: Murray
+Address: ('1712 State Route 121 North, Suite D', 'Murray, KY  42071')
+Contact: 270-753-3366
+
+City: Owensboro
+Address: ('1035 Frederica Street, Suite 100', 'Owensboro, KY 42301')
+Contact: 270-926-4747
+
+City: Russell
+Address: ('978 Diederich Boulevard', 'Russell, KY 41169')
+Contact: 606-836-0000
+
+City: Portland
+Address: ('129 Middle Street, Suite 200', 'Portland, ME  04101')
+Contact: 207-253-7600
+
+City: Towson
+Address: ('100 West Road, Suite 200', 'Towson, MD  21204')
+Contact: 410-769-5200
+
+City: Easton
+Address: ('218 North Washington Street, Suite 37', 'Easton, MD 21601')
+Contact: 410-822-2140
+
+City: Ann Arbor
+Address: ('2950 South State Street, Suite 401', 'Ann Arbor, MI 48104')
+Contact: 734-302-2900
+
+City: Battle Creek
+Address: ('4625 Beckley Road, Building 200', 'Battle Creek, MI  49015')
+Contact: 269-660-9400
+
+City: Birmingham
+Address: ('300 Park Street, Suite 240', 'Birmingham, MI  48009')
+Contact: 248-594-9959
+
+City: Grand Rapids
+Address: ('333 Bridge Street NW, Suite 1000', 'Grand Rapids, MI 49504')
+Contact: 616-233-8700
+
+City: Holland
+Address: ('151 Central Avenue Suite 120', 'Holland, MI  49423')
+Contact: 616-546-6700
+
+City: Holland Downtown
+Address: ('85 East Eighth Street, Suite 350', 'Holland, MI 49423')
+Contact: 616-394-9199
+
+City: Kalamazoo
+Address: ('125 South Kalamazoo Mall, Suite 302', 'Kalamazoo, MI 49007')
+Contact: 269-381-0592
+
+City: Saginaw
+Address: ('4835 Towne Centre, Suite 103', 'Saginaw, MI 48604')
+Contact: 989-790-5724
+
+City: St. Joseph
+Address: ('2900 South State Street', 'St. Joseph, MI  49085')
+Contact: 269-983-7500
+
+City: Traverse City
+Address: ('1001 Bay Street', 'Traverse City, MI  49684')
+Contact: 231-933-6050
+
+City: Oxford
+Address: ('410 Enterprise Drive', 'Oxford, MS 38655')
+Contact: 662-841-1900
+
+City: Edina
+Address: ('7650 Edinborough Way, Suite 300', 'Edina, MN 55435')
+Contact: 952-857-5500
+
+City: Minnetonka
+Address: ('601 Carlson Parkway, Suite 950', 'Minnetonka, MN  55305')
+Contact: 952-249-7600
+
+City: Rochester
+Address: ('2575 Commerce Drive North West, Suite 115', 'Rochester, MN  55901')
+Contact: 507-405-3850
+
+City: St.Paul
+Address: ('30 E. 7th Street, Suite 2450', 'St. Paul, MN 55101')
+Contact: 651-365-2180
+
+City: Kansas City
+Address: ('444 West 47th Street, Suite 100', 'Kansas City, MO 64112')
+Contact: 816-480-4200
+
+City: St. Louis
+Address: ('8182 Maryland Avenue, Suite 840', 'St. Louis, MO  63105')
+Contact: 888-792-9817
+
+City: Omaha
+Address: ('13609 California St, Suite 400, PO Box 542066', 'Omaha, NE 68154')
+Contact: 402-399-2099
+
+City: Florham Park
+Address: ('200 Campus Drive, Suite 170', 'Florham Park, NJ  07932')
+Contact: 973-360-5500
+
+City: Chapel Hill
+Address: ('1414 Raleigh Rd, Suite 420', 'Chapel Hill, NC 27517')
+Contact: 919-918-2900
+
+City: Charlotte
+Address: ('4350 Congress Street, Suite 400', 'Charlotte, NC 28209')
+Contact: 704-571-7350
+
+City: Hendersonville
+Address: ('101 East Allen Street, Suite 219', 'Hendersonville, NC  28792')
+Contact: 828-233-1900
+
+City: Davidson
+Address: ('130 Harbour Place, Suite 350', 'Davidson, NC 28036')
+Contact: 704-237-1500
+
+City: Raleigh
+Address: ('3600 Glenwood Ave, Suite 200', 'Raleigh, NC  27612')
+Contact: 919-789-5555
+
+City: Winston Salem
+Address: ('380 Knollwood Street, Suite 350', 'Winston, Salem, NC 27103')
+Contact: 336-631-5860
+
+City: Akron
+Address: ('3875 Embassy Parkway, Suite 300', 'Akron, OH 44333')
+Contact: 330-664-5500
+
+City: Cincinnati
+Address: ('3805 Edwards Road, Suite 610', 'Cincinnati, OH 45209')
+Contact: 513-758-8400
+
+City: Cincinnati
+Address: ('312 Walnut Street, Suite 3120', 'Cincinnati, OH 45202')
+Contact: 513-421-1750
+
+City: Cleveland
+Address: ('200 Public Square, Suite 1650', 'Cleveland, OH 44114')
+Contact: 216-737-7330
+
+City: Columbus
+Address: ('4215 Worth Avenue, Suite 200', 'Columbus, OH 43219')
+Contact: 614-629-6900
+
+City: Columbus - Grandview Heights
+Address: ('800 Yard Street, Suite 225', 'Grandview Heights, OH  43212')
+Contact: 614-210-6280
+
+City: Miamisburg
+Address: ('10170 Penny Lane, 1st Floor', 'Miamisburg, OH 45342')
+Contact: 937-428-3000
+
+City: Gallipolis
+Address: ('352 Second Avenue', 'Gallipolis, OH 45631')
+Contact: 740-446-2000
+
+City: Steubenville
+Address: ('200 Stanton Blvd, Suite 40', 'Steubenville, OH  43952')
+Contact: 740-282-5024
+
+City: Toledo
+Address: ('3439 Granite Circle, Suite 300', 'Toledo, OH 43617')
+Contact: 419-842-2350
+
+City: Charleston
+Address: ('25 Calhoun Street, Suite 1650', 'Charleston, SC 29401')
+Contact: 843-579-5000
+
+City: Greenville
+Address: ('300 North Main Street, Suite 400', 'Greenville, SC 29601')
+Contact: 864-467-0007
+
+City: Sioux Falls
+Address: ('4930 South Western Avenue, Suite 400', 'Sioux Falls, SD 57108')
+Contact: 605-275-2310
+
+City: Chattanooga
+Address: ('633 Chestnut Street, Suite 2050', 'Chattanooga, TN  37450')
+Contact: 423-267-7604
+
+City: Clarksville
+Address: ('212 Madison Street', 'Clarksville, TN 37040')
+Contact: 931-552-0110
+
+City: Columbia
+Address: ('500 West 7th Street', 'Columbia, TN 38401')
+Contact: 931-548-3737
+
+City: Dyersburg
+Address: ('1950 Highway 51 Bypass North', 'Dyersburg, TN  38024')
+Contact: 731-287-9700
+
+City: Knoxville
+Address: ('1225 East Weisgarber Road, Suite 150', 'Knoxville, TN  37909')
+Contact: 865-470-8444
+
+City: Knoxville
+Address: ('1225 East Weisgarber Road, Suite 150', 'Knoxville, TN  37909')
+Contact: 865-470-8444
+
+City: Murfreesboro
+Address: ('1639 Medical Center Parkway, Suite 305', 'Murfreesboro, TN 37129')
+Contact: 615-867-7700
+
+City: Union City
+Address: ('201 West Washington Avenue', 'Union City, TN 38261')
+Contact: 731-599-1551
+
+City: Abilene
+Address: ('400 Pine Street, Suite 710', 'Abilene, TX 79601')
+Contact: 325-690-4600
+
+City: Dallas
+Address: ('8333 Douglas Avenue, Suite 1000', 'Dallas, TX 75225')
+Contact: 214-373-2900
+
+City: Fort Worth
+Address: ('550 Bailey Avenue, Suite 700', 'Fort Worth, TX 76107')
+Contact: 817-339-3400
+
+City: Houston
+Address: ('4400 Post Oak Parkway, Suite 2790', 'Houston, TX  77027')
+Contact: 713-296-8050
+
+City: Houston
+Address: ('945 Bunker Hill Road, Suite 300', 'Houston, TX  77024')
+Contact: 713-973-3800
+
+City: Lake Jackson
+Address: ('208 Parking Way', 'Lake Jackson, TX  77566')
+Contact: 877-792-3234
+
+City: Salt Lake City
+Address: ('222 South Main Street, Suite 1840', 'Salt Lake City, UT  84101')
+Contact: 801-869-3800
+
+City: Lynchburg
+Address: ('5998 Boonsboro Road', 'Lynchburg, VA 24503')
+Contact: 434-386-5000
+
+City: McLean
+Address: ('1750 Tysons Boulevard, Suite 260', 'McLean, VA 22102')
+Contact: 703-668-1300
+
+City: Charleston
+Address: ('200 Association Drive, Suite 100', 'Charleston, WV 25311')
+Contact: 304-344-1854
+
+City: Huntington
+Address: ('300 Tenth Street', 'Huntington, WV 25701')
+Contact: 304-529-6500
+
+City: Mount Vernon
+Address: ('1404 E. College Way, Suite 103', 'Mount Vernon, WA  98273')
+Contact: 360-848-0348
+
+City: Seattle
+Address: ('925 Fourth Avenue, Suite 3600', 'Seattle, WA 98104')
+Contact: (206) 664-8850
+
+City: Spokane
+Address: ('601 West Riverside, Suite 1710', 'Spokane, WA  99201')
+Contact: 509-742-5000
+
+City: Yakima
+Address: ('3907 Castlevale Road, Suite 100', 'Yakima, WA  98902')
+Contact: 509-248-7599
+
+City: Eau Claire
+Address: ('4890 Owen Ayres Ct, Suite 102', 'Eau Claire, WI 54702')
+Contact: 715-552-3535
+
+City: Appleton
+Address: ('3913 West Prospect Avenue, Suite 301', 'Appleton, WI 54914')
+Contact: 920-830-3600
+
+City: Green Bay
+Address: ('440 South Washington', 'Green Bay, WI 54301')
+Contact: 920-433-7300
+
+City: Janesville
+Address: ('14 North Parker Drive, Suite 200', 'Janesville, WI 53545')
+Contact: 608-373-7900
+
+City: La Crosse
+Address: ('2800 National Drive, Suite 101', 'Onalaska, WI  54650')
+Contact: 608-785-2880
+
+City: Madison
+Address: ('One South Pinckney Street, Suite 600', 'Madison, WI 53703')
+Contact: 608-252-5700
+
+City: Madison
+Address: ('8000 Excelsior Drive, Suite 302', 'Madison, WI 53717')
+Contact: 608-830-3500
+
+City: Milwaukee
+Address: ('777 East Wisconsin Avenue', 'Milwaukee, WI 53202')
+Contact: 414-765-3500
+
+City: North Shore
+Address: ('1539 West Market Street', 'Mequon, WI  53092')
+Contact: 262-240-3500
+
+City: Oconomowoc
+Address: ('1245 Corporate Center Drive', 'Oconomowoc, WI 53066')
+Contact: 262-567-9320
+
+City: Racine
+Address: ('One Main St, Suite 300', 'Racine, WI  53403')
+Contact: 262-631-5000
+
+City: Sheboygan
+Address: ('2048 Kohler Memorial Drive', 'Sheboygan, WI  53081')
+Contact: 920-803-4420
+
